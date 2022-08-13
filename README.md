@@ -2,7 +2,7 @@
 
 ### 사용한 git 명령어
 
-| Command                      | Descryption                                                       |
+| Command                      | Description                                                       |
 | :--------------------------- | :---------------------------------------------------------------- |
 | `git init`                   | 새 repository 생성                                                |
 | `git add [파일명]`           | git을 commit하기 전 단계, 해당 파일을 staging area에 올림         |
